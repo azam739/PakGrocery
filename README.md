@@ -1,5 +1,5 @@
 # PakGrocery
-Add files via upload
+
 PakGrocery is an online Grocery marketplace. This is a complete, Professional, Responsive Website. 
 
 Using Language:
